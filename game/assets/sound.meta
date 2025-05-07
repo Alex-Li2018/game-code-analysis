@@ -1,0 +1,13 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "138a2680-484e-4180-ad32-7831ce179b9e",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "GameSound",
+    "bundleConfigID": "auto_72rp2kdIhA1r/+1+CllzJp"
+  }
+}

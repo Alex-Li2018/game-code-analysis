@@ -1,0 +1,105 @@
+[
+  {
+    "fileName": "RootScene.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/rootscene.ts",
+    "externalImports": [
+      "cc",
+      "cc/env"
+    ],
+    "internalImports": [],
+    "functions": []
+  },
+  {
+    "fileName": "block.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/block.ts",
+    "externalImports": [
+      "cc"
+    ],
+    "internalImports": [],
+    "functions": []
+  },
+  {
+    "fileName": "ToolTS.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/resource/dygift/toolts.ts",
+    "externalImports": [
+      "cc"
+    ],
+    "internalImports": [],
+    "functions": []
+  },
+  {
+    "fileName": "DyGiftTS.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/resource/dygift/dygiftts.ts",
+    "externalImports": [
+      "cc",
+      "cc/env"
+    ],
+    "internalImports": [
+      "/Users/liurong/Desktop/game-code-analysis/ast/ToolTS"
+    ],
+    "functions": []
+  },
+  {
+    "fileName": "gameData.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/gamedata.ts",
+    "externalImports": [
+      "cc"
+    ],
+    "internalImports": [],
+    "functions": []
+  },
+  {
+    "fileName": "IPlatformMgr.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform/iplatformmgr.ts",
+    "externalImports": [],
+    "internalImports": [],
+    "functions": []
+  },
+  {
+    "fileName": "Platform-dy.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform-handles/platform-dy.ts",
+    "externalImports": [],
+    "internalImports": [
+      "/Users/liurong/Desktop/game-code-analysis/platform/IPlatformMgr"
+    ],
+    "functions": []
+  },
+  {
+    "fileName": "Platform-wx.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform-handles/platform-wx.ts",
+    "externalImports": [],
+    "internalImports": [
+      "/Users/liurong/Desktop/game-code-analysis/platform/IPlatformMgr"
+    ],
+    "functions": []
+  },
+  {
+    "fileName": "PlatformMgr.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform/platformmgr.ts",
+    "externalImports": [
+      "cc/env"
+    ],
+    "internalImports": [
+      "/Users/liurong/Desktop/game-code-analysis/platform-handles/Platform-dy",
+      "/Users/liurong/Desktop/game-code-analysis/platform-handles/Platform-wx",
+      "/Users/liurong/Desktop/game-code-analysis/ast/IPlatformMgr"
+    ],
+    "functions": []
+  },
+  {
+    "fileName": "game.ts",
+    "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/game.ts",
+    "externalImports": [
+      "cc"
+    ],
+    "internalImports": [
+      "/Users/liurong/Desktop/game-code-analysis/resource/dyGift/DyGiftTS",
+      "/Users/liurong/Desktop/game-code-analysis/ast/block",
+      "/Users/liurong/Desktop/game-code-analysis/ast/gameData",
+      "/Users/liurong/Desktop/game-code-analysis/ast/platform/IPlatformMgr",
+      "/Users/liurong/Desktop/game-code-analysis/ast/platform/PlatformMgr",
+      "/Users/liurong/Desktop/game-code-analysis/ast/RootScene"
+    ],
+    "functions": []
+  }
+]

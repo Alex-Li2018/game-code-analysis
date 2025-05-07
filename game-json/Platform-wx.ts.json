@@ -1,0 +1,9 @@
+{
+  "fileName": "Platform-wx.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform-handles/platform-wx.ts",
+  "externalImports": [],
+  "internalImports": [
+    "/Users/liurong/Desktop/game-code-analysis/platform/IPlatformMgr"
+  ],
+  "functions": []
+}

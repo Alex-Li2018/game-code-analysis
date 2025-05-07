@@ -1,0 +1,10 @@
+{
+  "fileName": "RootScene.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/rootscene.ts",
+  "externalImports": [
+    "cc",
+    "cc/env"
+  ],
+  "internalImports": [],
+  "functions": []
+}

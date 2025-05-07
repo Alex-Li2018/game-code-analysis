@@ -1,0 +1,9 @@
+{
+  "fileName": "Platform-dy.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform-handles/platform-dy.ts",
+  "externalImports": [],
+  "internalImports": [
+    "/Users/liurong/Desktop/game-code-analysis/platform/IPlatformMgr"
+  ],
+  "functions": []
+}

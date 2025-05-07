@@ -1,0 +1,9 @@
+{
+  "fileName": "gameData.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/gamedata.ts",
+  "externalImports": [
+    "cc"
+  ],
+  "internalImports": [],
+  "functions": []
+}

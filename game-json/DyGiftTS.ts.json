@@ -1,0 +1,12 @@
+{
+  "fileName": "DyGiftTS.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/resource/dygift/dygiftts.ts",
+  "externalImports": [
+    "cc",
+    "cc/env"
+  ],
+  "internalImports": [
+    "/Users/liurong/Desktop/game-code-analysis/ast/ToolTS"
+  ],
+  "functions": []
+}

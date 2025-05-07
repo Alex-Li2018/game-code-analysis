@@ -1,0 +1,16 @@
+{
+  "fileName": "game.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/game.ts",
+  "externalImports": [
+    "cc"
+  ],
+  "internalImports": [
+    "/Users/liurong/Desktop/game-code-analysis/resource/dyGift/DyGiftTS",
+    "/Users/liurong/Desktop/game-code-analysis/ast/block",
+    "/Users/liurong/Desktop/game-code-analysis/ast/gameData",
+    "/Users/liurong/Desktop/game-code-analysis/ast/platform/IPlatformMgr",
+    "/Users/liurong/Desktop/game-code-analysis/ast/platform/PlatformMgr",
+    "/Users/liurong/Desktop/game-code-analysis/ast/RootScene"
+  ],
+  "functions": []
+}

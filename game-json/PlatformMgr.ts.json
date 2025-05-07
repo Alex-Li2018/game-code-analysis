@@ -1,0 +1,13 @@
+{
+  "fileName": "PlatformMgr.ts",
+  "path": "/users/liurong/desktop/game-code-analysis/game/assets/typescript/platform/platformmgr.ts",
+  "externalImports": [
+    "cc/env"
+  ],
+  "internalImports": [
+    "/Users/liurong/Desktop/game-code-analysis/platform-handles/Platform-dy",
+    "/Users/liurong/Desktop/game-code-analysis/platform-handles/Platform-wx",
+    "/Users/liurong/Desktop/game-code-analysis/ast/IPlatformMgr"
+  ],
+  "functions": []
+}
